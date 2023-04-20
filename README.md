@@ -23,8 +23,6 @@ code of our research in ordered to make it reproducible.
 
 Keras >= 2.8, Tensorflow >= 2.8; numba >= 0.56; scipy >= 1.8; opencv-python >= 4.5
 
-To run in real time requires CUDA compatible GPU. Setup for [Windows](https://www.youtube.com/watch?v=EmZZsy7Ym-4). 
-
 Tested on: PC, Intel i7-9700 3GHz, 64 GB RAM, NVIDIA GeForce RTX 2060 GPU, Windows 10 OS; 
 
 ## How to run
