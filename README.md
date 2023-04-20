@@ -21,7 +21,9 @@ network use and about the accuracy of PCA-based algorithm. We also publish the s
 code of our research in ordered to make it reproducible.
 ## Requirements
 
-Keras >= 2.8, Tensorflow >= 2.8; numba >= 0.56; scipy >= 1.8; opencv-python >= 4.5
+Python 3.8, Keras >= 2.8, Tensorflow >= 2.8; numba >= 0.56; scipy >= 1.8; opencv-python >= 4.5
+
+For evaluation visualization in R: dplyr, ggplot2
 
 Tested on: PC, Intel i7-9700 3GHz, 64 GB RAM, NVIDIA GeForce RTX 2060 GPU, Windows 10 OS; 
 
@@ -36,6 +38,7 @@ Run file in following order (please update paths according to your system!):
 To make visualization of how of our PCA-based + encoder-decoder metod works for selected parameters run script:
 
 - test_method.py
+- plots.R
 
 Example results for th=73, ph=145
 
