@@ -1,5 +1,5 @@
 # File generates data for network training using pre-calculated numpy arrays
-# Source codes by: [Tomasz Hachaj](https://home.agh.edu.pl/~thachaj/)
+# Source codes by: 
 
 import matplotlib.pyplot as plt
 import numpy as np

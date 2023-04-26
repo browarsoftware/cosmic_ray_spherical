@@ -1,5 +1,5 @@
 # The file visualizes an example of how of our PCA-based + encoder-decoder metod works for selected parameters
-# Source codes by: [Tomasz Hachaj](https://home.agh.edu.pl/~thachaj/)
+# Source codes by: 
 
 from shower_generator import *
 

@@ -1,5 +1,5 @@
 # File containing implementations of auxiliary functions
-# Source codes by: [Tomasz Hachaj](https://home.agh.edu.pl/~thachaj/)
+# Source codes by: 
 
 import math
 import numpy as np

@@ -1,6 +1,6 @@
 # File that performs validation of our PCA-based + encoder-decoder network
 # Results are stored in file results_loop.txt
-# Source codes by: [Tomasz Hachaj](https://home.agh.edu.pl/~thachaj/)
+# Source codes by: 
 
 import matplotlib.pyplot as plt
 import keras

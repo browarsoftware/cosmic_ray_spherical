@@ -1,5 +1,5 @@
 # The file generates data for network training in the form of numpy arrays, which will then be sampled
-# Source codes by: [Tomasz Hachaj](https://home.agh.edu.pl/~thachaj/)
+# Source codes by: 
 
 import math
 import numpy as np

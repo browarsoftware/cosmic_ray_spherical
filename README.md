@@ -2,9 +2,9 @@
 
 # Determination of spherical coordinates of sampled cosmic ray flux distribution using Principal Components Analysis and Deep Encoder-Decoder Network
 
-By: Hachaj T, Piekarczyk M, Bibrzycki Ł, Wąs J
+By: 
 
-Source codes by: [Tomasz Hachaj](https://home.agh.edu.pl/~thachaj/)
+Source codes by: 
 
 Abstract: In this paper we propose a novel algorithm based on the use of Principal 
 Components Analysis for the determination of spherical coordinates of sampled cosmic 
